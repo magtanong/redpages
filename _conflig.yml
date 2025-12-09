@@ -1,0 +1,11 @@
+title: "Red Pages"
+description: "Notes and development"
+theme: "minimal-mistakes-jekyll"
+
+plugins:
+  - jekyll-include-cache
+
+# Settings
+markdown: kramdown
+show_date: true
+
