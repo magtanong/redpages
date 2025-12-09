@@ -1,1 +1,4 @@
-Red Pages
+---
+layout: home
+title: "Red Pages"
+---
