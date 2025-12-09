@@ -14,17 +14,6 @@ collections:
   posts:
     output: true
 
-# Navbar links
-nav:
-  - title: "Home"
-    url: /
-  - title: "Posts"
-    url: /posts/
-  - title: "About"
-    url: /about/
-  - title: "Contact"
-    url: /contact/
-
 # Default layouts
 defaults:
   - scope:
